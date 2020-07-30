@@ -1,0 +1,26 @@
+{
+  "name": "acme-products-manager-server",
+  "version": "0.0.1",
+  "description": "apm project products server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "keywords": [
+    "node",
+    "apm",
+    "products",
+    "demo",
+    "tutorials",
+    "useful"
+  ],
+  "author": "joe palala",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
